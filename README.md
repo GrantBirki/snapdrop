@@ -11,5 +11,3 @@ make run
 ```
 
 The application will be listening on port `443` and `8888` by default
-
-It is accessible on my local domain at: [birki.net](https://birki.net)
